@@ -1,0 +1,19 @@
+table.map td {
+    border-collapse: collapse;
+    empty-cells: show;
+    border: 1px solid blue;
+    table-layout:fixed;
+    width:20px;
+}
+
+table.main {
+    border-collapse: collapse;
+    border: 1px solid red;
+    table-layout:fixed;
+}
+
+table.pstats td {
+    border-collapse: collapse;
+    border: 1px solid gray;
+    table-layout:fixed;
+}
