@@ -1,0 +1,6 @@
+ObjID,ObjType,Name,Desc,Attack,Defence,Speed,Weight
+0,Empty,Empty,Empty,0,0,0,0
+1,Sword,"Short Sword","A functional sword",4,2,4,3
+2,Shield,"Wooden Shield","A small wooden sheild",1,4,2,3
+3,Staff,"Oak Staff","A strong oak staff",2,2,4,2
+4,Bow,"Short Bow","A light short bow",3,1,4,3
