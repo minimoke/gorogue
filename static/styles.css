@@ -1,0 +1,25 @@
+table {
+    border-collapse: collapse;
+}
+
+table.main td {
+    border: 1px solid red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+}
+table.map td {
+    empty-cells: show;
+    border: 1px solid blue;
+    table-layout:fixed;
+    width:20px;
+    height:20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+}
+
+table.pstats td {
+    border: 1px solid gray;
+    table-layout:fixed;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+}
