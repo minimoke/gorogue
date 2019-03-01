@@ -2,14 +2,15 @@ package main
 
 import (
 	"fmt"
-	"gorogue/player"
-	"gorogue/world"
 	"html/template"
 	"log"
 	"net/http"
 	"os"
 	"strconv"
 	"strings"
+
+	"github.com/gorogue/player"
+	"github.com/gorogue/world"
 )
 
 const pageheader = `<html>

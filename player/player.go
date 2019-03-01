@@ -3,10 +3,11 @@ package player
 import (
 	"encoding/gob"
 	"fmt"
-	"gorogue/world"
 	"math/rand"
 	"os"
 	"time"
+
+	"github.com/gorogue/world"
 )
 
 type Character struct {
