@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/gorogue/world"
+	"github.com/minimoke/gorogue/world"
 )
 
 type Character struct {
