@@ -9,8 +9,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/gorogue/player"
-	"github.com/gorogue/world"
+	"github.com/minimoke/gorogue/player"
+	"github.com/minimoke/gorogue/world"
 )
 
 const pageheader = `<html>
